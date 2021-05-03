@@ -1,7 +1,8 @@
 html {
   box-sizing: border-box;
   font-size: 10px;
-  background: #ffc600;
+  color: yellow;
+  background: purple;
 }
 
 *, *:before, *:after {
